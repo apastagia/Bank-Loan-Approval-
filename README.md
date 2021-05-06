@@ -10,3 +10,5 @@ How to show calculated fields on list view page|Django Admin series: If your cus
 https://www.youtube.com/watch?v=ALTMvCo8UGs
 
 ### How to create requirements.txt file
+***pip freeze >> requirements.txt 
+pip install -r requirements.txt*** 
